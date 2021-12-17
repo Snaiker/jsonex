@@ -1,5 +1,6 @@
 {
   "request": {
+    "versions" : "1.0",
     "users": [
       {
         "user": "Antonio",
